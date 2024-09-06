@@ -65,7 +65,7 @@ This project is licensed under the MIT License. You are free to use, modify, and
 - Add hourly and weekly weather forecast.
 - Add more detailed weather information like wind speed and humidity.
 - Improve UI and UX with additional styles and animations.
-```
+
 
 ### Notes:
 - Replace `your-username` with your actual GitHub username in the clone link.
